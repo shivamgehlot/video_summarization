@@ -1,0 +1,21 @@
+# UI
+streamlit==1.41.1
+
+# LLM (GGUF / llama.cpp backend)
+llama-cpp-python==0.3.16
+
+# Speech to text
+faster-whisper==1.1.1
+ctranslate2==4.4.0
+
+# Video / audio handling
+yt-dlp==2025.1.26
+moviepy==1.0.3
+
+# Utilities
+huggingface_hub==0.27.0
+numpy==2.2.6
+tqdm==4.67.1
+
+# Optional but recommended
+python-dotenv==1.0.1
